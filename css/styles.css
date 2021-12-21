@@ -1,0 +1,143 @@
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  margin-top: 300px;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+.background-img {
+  height: 25rem;
+  width: 100rem;
+  position: relative;
+}
+
+body {
+  background-color: hsl(225, 100%, 94%);
+  font-family: "Red Hat Display", sans-serif;
+  font-size: 16px;
+  margin: 0;
+  position: relative;
+}
+
+.cancel{
+    color: hsl(224, 23%, 55%);
+    font-size: 14px;
+    font-weight: 900;
+    margin: 25px auto;
+}
+
+.cancel:hover{
+    color: hsl(223, 47%, 23%);
+    cursor: pointer;
+}
+
+.card-img {
+  border-radius: 20px 20px 0 0;
+  width: 23rem;
+}
+
+.change-btn {
+  color: hsl(245, 75%, 52%);
+  font-weight: 700;
+  text-decoration: underline;
+  width: 100px;
+  position: absolute;
+  top: 20px;
+  left: 200px;
+}
+
+.change-btn:hover{
+    color: 	rgb(56, 41, 224,0.7);
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.container {
+  background-color: hsl(225, 100%, 98%);
+  border-radius: 20px;
+  height: 35rem;
+  width: 23rem;
+  position: absolute;
+  left: 36.5rem;
+  top: 6rem;
+  color: hsl(223, 47%, 23%);
+  text-align: center;
+}
+
+.description {
+  color: hsl(224, 23%, 55%);
+  font-weight: 500;
+}
+
+.info {
+  margin: 30px 10px;
+}
+
+.music-img {
+  float: left;
+  margin: 20px 10px 0 20px;
+}
+
+h2 {
+  font-weight: 900;
+}
+
+.payment {
+  background-color: hsl(245, 75%, 52%);
+  border-radius: 10px;
+  color: hsl(225, 100%, 98%);
+  height: 40px;
+  margin: 10px auto;
+  width: 300px;
+  box-shadow: 1px 10px 24px 0px #476687;
+}
+
+.payment:hover{
+    background-color: 	rgb(56, 41, 224,0.7);
+    cursor: pointer;
+}
+
+.plan {
+  font-size: 13px;
+  margin: 10px auto;
+  background-color: rgb(224, 232, 255, 0.3);
+
+  border-radius: 10px;
+  height: 90px;
+  width: 300px;
+  position: relative;
+}
+
+.plan-type {
+  font-size: 14px;
+  padding-top: 25px;
+  width: 160px;
+  color: hsl(224, 23%, 55%);
+}
+
+.proceed{
+    font-size: 14px;
+    font-weight: 700;
+    padding-top: 10px;
+}
+
+.type {
+  color: hsl(223, 47%, 23%);
+  font-weight: 900;
+}
+
+
+@media (max-width: 480px) {
+  .container{
+    position: absolute;
+    top: 20px;
+    left: 10px;
+    right: 10px;
+  }
+
+}
+
+
