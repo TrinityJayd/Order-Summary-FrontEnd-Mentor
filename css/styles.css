@@ -130,16 +130,22 @@ h2 {
 }
 
 
-@media(max-width: 375px) {
+@media screen and (max-width: 376px) {
   .background-img{
     max-width: 375px;
+    
+  }
+
+  .card-img{
+    width: 20rem;
   }
 
   .container{
-    position: relative;
-    margin: 20px auto;
+    position: absolute;
+    top: 2.5rem;
+    left: 2rem;
+    width: 20rem;
   }
+  
 }
-
-
 
