@@ -137,14 +137,14 @@ h2 {
   }
 
   .card-img{
-    width: 20rem;
+    max-width: 20rem;
   }
 
   .container{
     position: absolute;
     top: 2.5rem;
     left: 2rem;
-    width: 20rem;
+    max-width: 20rem;
   }
   
 }
