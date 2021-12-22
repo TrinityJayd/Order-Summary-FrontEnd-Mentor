@@ -27,8 +27,8 @@ Your users should be able to:
 
 ![My Solution](Solution.PNG)
 
-Solution URL: https://trinityjayd.github.io/FrontEnd-Mentor-NFT/
-
+Solution URL: https://www.frontendmentor.io/solutions/order-summary-solution-yaZL6TdXq
+Live Site URL: https://trinityjayd.github.io/FrontEnd-Mentor-NFT/
 
 ### Built with
 
