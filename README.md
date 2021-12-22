@@ -25,7 +25,7 @@ Your users should be able to:
 
 ### Screenshot
 
-![My Solution](Solution.png)
+![My Solution](Solution.PNG)
 
 Solution URL: https://trinityjayd.github.io/FrontEnd-Mentor-NFT/
 
